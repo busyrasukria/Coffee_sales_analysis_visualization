@@ -3,11 +3,8 @@ This project is a data analytics initiative focused on the coffee sales industry
 
 🔍 Key Features:
 Built with Apache Hive on a Hadoop ecosystem (via Cloudera)
-
 Analyzes sales performance across markets and products
-
 Visualizes data to identify top-selling products, marketing impact, and profit gaps
-
 Supports decision-making in inventory and marketing strategies
 
 📁 Dataset:
